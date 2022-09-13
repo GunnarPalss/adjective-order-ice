@@ -1,0 +1,71 @@
+skyn	birta	bjartur	dimmur	dökkur
+skyn	litur	rauður	blár	gulur	grænn	svartur	hvítur	bleikur	grár	brúnn	litaður
+skyn	hljóð	hávær	hljóður	heyrður
+skyn	bragð	súr	sætur	beiskur	saltur	bragðandi
+skyn	lykt	arómatískur	lyktandi	angandi	ilmandi
+skyn	áferð	grófur	sléttur	mjúkur	harður	hvass
+staðsetning	vídd	langur	flatur djúpur	stór	hár
+staðsetning	stefna	norðlægur	aftari	vestanverður
+staðsetning	staðsetning	nálægur	lágur	horfinn	farinn	kominn týndur	staddur
+staðsetning	uppruni	framandi	frumlegur	náttúrulegur
+staðsetning	rúmdreifing	tómur	þéttur	dreifður	útbreiddur
+staðsetning	lögun	kringlóttur	hyrndur
+staðsetning	tilvera	núverandi	þáverandi	fjarverandi	byrjaður	búinn	yfirstandandi
+tími	tími	seinn	snemmbúinn	tímafrekur	langvarandi
+tími	hraði	hraður	hægur	fljótur	snöggur
+tími	aldur	gamall	ungur	aldraður	nýr	tvítugur
+tími	venja	venjulegur	týpískur	eðlilegur	skrýtinn	einkennilegur	undarlegur	sérstakur
+hreyfing	hreyfing	klaufalegur	reiprennandi
+efni	eðli	gylltur	silfraður	rafrænn
+efni	ástand	opinn	brotinn	rifinn
+efni	jafnvægi	stöðugur	skjálfandi
+efni	hamur	vökvakenndur	slímugur	frosinn	fljótandi
+efni	þroski	úldinn	ferskur	rotinn
+efni	raki	þurr	votur	blautur
+efni	mengun	skítugur	flekklaus	hreinn
+efni	þyngd	léttur	massífur	þungur
+efni	eðliseiginleiki	rafmagnaður	segulmagnaður	sveigjanlegur	steiktur	soðinn
+efni	efniseiginleiki	járnríkur	súrefnismettaður
+efni	hitastig	kaldur	varmur	heitur
+veður	veður	skýjaður	heiðskír	vindasamur
+líkami	líf	lifandi	dauður	látinn dáinn	heitinn
+líkami	líkamsgerð	sterkur	feitur	vöðvastæltur	mjór
+líkami	heilsa	heilbrigður	veikur	lasinn	hraustur
+líkami	líkamstilfinning	hungraður	þreyttur	syfjaður	aumur
+líkami	kyn	karlkyns	kvenkyns	hvorugkyns
+líkami	útlit	fallegur	ljótur	myndarlegur	hærður	ósýnilegur	eygður
+líkami	líkamsástand	ófrískur	kynþroska
+skap	tilfinning	glaður	sorgmæddur	reiður
+skap	örvun	skemmtilegur	pirrandi	leiðinlegur
+hugi	gáfur	klókur	heimskur	vitur	gáfaður
+hugi	reynsla	menntaður	reynslulaus	lærður	reyndur
+hegðun	hegðun	latur	kurteis	rómantískur	djarfur	tregur	góður slæmur
+hegðun	dýrseðli	taminn	villtur	dýrslegur
+hegðun	hæfni	flinkur	fær	handlaginn	duglegur	hæfileikaríkur
+hegðun	samband	fjandsamlegur	vinalegur	kynhneigður
+hegðun	samúð	vinsæll	hataður
+hegðun	tilhneiging	smjaðurslegur	málglaður	rólegur
+samfélag	félagsstaða	fátækur	starfandi	giftur	ákærður	skilinn	kjörinn
+samfélag	stjórnmál	hægrisinnaður	demókratískur	íhaldssamur	frjálslyndur	opinber
+samfélag	trú	kaþólskur	guðlaus	kristinn	íslamskur
+samfélag	ríki	íslenskur	afrískur	alþjóðlegur
+samfélag	svæði	dreifbýll	þéttbýll	afskekktur
+fjöldi	tala	tvennur	þrennur	einn	tveir	þrír	fern
+fjöldi	fjöldi	margur	tvöfaldur	fár	
+fjöldi	verð	dýr	verðmikill	hagkvæmur	dýrmætur	kostnaðarsamur
+fjöldi	uppskera	arðbær	frjósamur
+tengsl	gildi	mögulegur	gildur
+tengsl	vissa	vís	augljós	viss
+tengsl	nauðsyn	mikilvægur	óþarfa	nauðsynlegur	ómissandi
+tengsl	hagnýtni	áhrifaríkur	árangursríkur
+tengsl	erfiði	auðveldur	flókinn	erfiður	vandasamur
+tengsl	virkni	ósnortinn	eyðilagður	ónýtur	skemmdur
+tengsl	öryggi	hættulegur	áhættusamur	öruggur
+tengsl	regla	skipulagður	kaotískur
+tengsl	tenging	tilheyrandi	bundinn
+tengsl	samræmi	svipaður	öðruvísi
+tengsl	nákvæmni	skýr	óljós
+tengsl	heild	algjört	óklárað	hálfnaður
+tengsl	ástæða	sálfræðilegur	veðurtengdur
+tengsl	tilvísun	táknrænn	beintengdur
+tengsl	gagn	skaðlegur	eitraður

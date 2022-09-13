@@ -1,0 +1,11 @@
+Total prenoms: 2026373
+
+Categories: 71
+
+Supercategories: 13
+
+Search words: 260
+
+Average cossim: 0.7891499911638413
+
+Average classweight: 1.0761554796405601
